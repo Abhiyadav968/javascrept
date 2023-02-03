@@ -1,0 +1,32 @@
+.D{       
+    margin: 0px 200px;
+}
+fieldset{
+    background-color: bisque;   
+}
+h1{
+    text-align: center;
+}
+label{
+    margin-left: 70px;
+}
+#F{
+    margin-left: 102px;
+}
+#M{
+    margin-left: 85px;
+}
+#L{
+    margin-left: 104px;
+}
+#D{
+    margin-left: 100px;   
+    width: 165px;
+}
+#P{
+    margin-left: 125px;
+}
+.C{
+    margin-left: 278px;
+    /* text-align: center; */
+}

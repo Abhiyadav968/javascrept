@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+p{
+    display: none;
+    background-color: aqua;
+    padding: 20px;
+}
+div:hover p{
+    display: block;
+}

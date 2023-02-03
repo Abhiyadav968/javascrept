@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+    margin: 0 25% 0 25%;
+    border: 2px solid brown;
+}
+form{
+    padding:15px 0px 15px 30px;
+}
+h1{
+    text-align: center;
+}
+label[type=text] {
+    width: 100px;
+}
+input[type=date]:focus {
+    color: blue;
+    border: 5px solid blue;   
+    background-color: antiquewhite;
+}
+input[type=text]:focus{
+    color: blue;
+    border: 5px solid blue;
+    background-color: antiquewhite;
+}
+input[type=Password]:focus{
+    color: blue;
+    border: 5px solid blue;
+    background-color: antiquewhite;
+}
+#Frist{
+    margin-left: 50px;
+}
+#Last{
+    margin-left: 52px;
+}
+#Date{
+    margin-left: 37.4px;
+}
+#Date{
+    margin-left: 37.5px;
+}
+#select{
+    margin-left: 31px;
+}
+#Password{
+    margin-left: 60px;
+}
+.Submit{
+    margin-left: 210px;
+}

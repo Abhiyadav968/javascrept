@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Main{
+    border: 2px solid black;
+    margin-left: 52px;
+    margin-right: 52px;
+    margin-top: 8px;
+    height: 400px;
+    background-color:cornsilk;
+}
+.J{
+    text-align: center;
+    margin-top: 8px;
+    
+}
+.A{
+    display:flex;;
+}
+#d{
+    margin-left:37px ;
+}
+.A2{
+    display: flex;
+}
+#d2{
+    margin-left:37px ;
+}
+.A3{
+    display: flex;
+}
+#d3{
+    margin-left:18px;
+}
+#d4{
+    margin-left: 210px;
+}
+.A4{
+    display: flex;
+}
+#d5{
+    margin-left: 37px;
+}
+.A5{
+    float: left;
+}
+#d6{
+    margin-left: 17px;
+}
+#d7{
+    margin-left:480px ;
+}
+.A6{
+    display: flex;
+}
+#d8{
+    margin-left: 210px;
+}
+#d9{
+    margin-left:16px;
+}

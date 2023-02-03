@@ -1,0 +1,54 @@
+
+.Main{
+    border: 2px solid blue;
+    background-color: aqua;
+    text-align: center;
+    width: 99%;
+    margin-left: 2px;
+}
+.N{
+    border: 2px solid blue;
+    background-color: aqua;
+    text-align: center;
+    width: 99%;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.S{
+    border: 2px solid blue;
+    background-color: aqua;
+    width: 50%;
+    margin-top: 2px;
+    margin-left: 2px;
+    text-align:center;
+}
+.a{
+    border: 2px solid blue;
+    background-color: aqua;
+    width: 50%;
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 5px;
+}
+.A{
+    border: 2px solid blue;
+    background-color: aqua;
+    margin-left: 2px;
+    margin-top: 2PX;
+    width: 99%;
+    text-align: center;
+    
+}
+.F{
+    border: 2px solid blue;
+    background-color: aqua;
+    margin-top: 2px;
+    width: 99%;
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 2px;
+}
+#D{
+    display: flex;
+}
