@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO LIST</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+
+<body style="background-color: #DADA; !impottant">
+  <div class="container">
+    <div class="row">
+      <div class="col-8 m-auto bg-dark text-white p-4">
+        <h4 class="text-center">Geade Calculating Systam</h4>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 col-md-12 m-auto d-flex justify-content-around">
+          <div class="col-md-4">
+            <div class="book1">
+              <label for="">Computer</label>
+              <input type="number" name="" placeholder="Marks" id="bookOne">
+            </div>
+            <div class="book2">
+              <label for="">Computer</label>
+              <input type="number" name="" placeholder="Marks" id="bookTwo">
+            </div>
+            <div class="book3">
+              <label for="">Computer</label>
+              <input type="number" name="" placeholder="Marks" id="bookThree">
+            </div>
+            <div class="book4">
+              <label for="">Computer</label>
+              <input type="number" name="" placeholder="Marks" id="booFour">
+            </div>
+            <div class="book5">
+              <label for="">Computer</label>
+              <input type="number" name="" placeholder="Marks" id="bookFive">
+            </div>
+            <button onclick="calculate()">Calculate</button>
+            <table>
+              <tr>
+                <td>Total Marks:</td>
+                <td>500</td>
+              </tr>
+              <tr>
+                <td>Obtained Marks:</td>
+                <td id="obtain"></td>
+              </tr>
+              <tr>
+                <td>Percentage:</td>
+                <td id="per"></td>
+              </tr>
+              <tr>
+                <td>Grade:</td>
+                <td id="grade"></td>
+              </tr>
+              <tr>
+                <td>Remarks:</td>
+                <td id="remarks"></td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-md-4">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="./scrept.js"></script>
+</body>
+
+</html>

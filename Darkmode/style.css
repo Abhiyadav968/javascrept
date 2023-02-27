@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container-fluied {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: to-top 1s forwards;
+}
+
+.bbb {
+    width: 50%;
+    animation: to-top 1s forwards;
+    height: 400px;
+    background-color: rgb(242, 242, 242);
+}
+
+.mystyle {
+    background-color: rgba(0, 0, 0, 0.721);
+    color: #fff;
+        animation: to-top 1s forwards;
+}

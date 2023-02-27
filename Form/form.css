@@ -1,0 +1,83 @@
+    .container {
+    width: 60%;
+    height: 450px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    padding: 80px 0px 0px 260px;
+    margin-left: 10%;
+}
+
+.main {
+    width: 60%;
+    /* height: 300px; */
+    background-color: white;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.input {
+    margin-left: 70px;
+}
+
+.input-in {
+    display: flex;
+}
+
+#fname {
+    width: 41%;
+    height: 25px;
+    font-size: 13px;
+}
+#lname {
+    width: 41%;
+    height: 25px;
+    font-size: 13px;
+}
+
+#username {
+    width: 84%;
+    height: 25px;
+    font-size: 13px;
+}
+
+#email {
+    width: 84%;
+    height: 25px;
+    font-size: 13px;
+}
+
+#pass {
+    width: 84%;
+    height: 25px;
+    font-size: 13px;
+}
+#submit {
+    width: 86%;
+    height: 28px;
+    font-size: 13px;
+    background-color: rgba(0, 0, 255, 0.548);
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    margin-top: 50px;
+    height: 10vh;
+}
+
+th {
+    height: 40px;
+    font-size: 22px;
+    background-color: beige;
+}
+
+td{
+    height: 30px;
+    font-size: 22px;
+    text-align: center;   
+}
